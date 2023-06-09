@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnVu1708
 - 👀 I’m interested in Automation and Testing
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently fullstack developer
 - 📫 Contact me: via email anvu523@gmail.com
 
 <!---
