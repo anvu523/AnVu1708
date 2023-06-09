@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnVu1708
-- 👀 I’m interested in Tech
+- 👀 I’m interested in AITech
 - 🌱 I’m currently fullstack developer
 - 📫 Contact me: via email anvu523@gmail.com
 
